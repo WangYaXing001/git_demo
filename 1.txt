@@ -1,2 +1,5 @@
 num=10  #zhangsan
 num1=22  #zhangsan
+num=300  #master
+num1=20  #zhangsan
+
